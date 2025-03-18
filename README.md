@@ -1,11 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0MOLbOcH)
-# Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+# Introduction
+Hi! I'm Nur Aqilah binti Azmi, a student in the Framework-Based Software Design and Development course. 
+I expect to learn as much as I can as this is all something new to me. 
+
+![My Image](WhatsApp%20Image%202025-03-18%20at%2013.41.01_69177a17.jpg) <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile https://github.com/qilahazmi
 
